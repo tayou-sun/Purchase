@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Purchase.DataAccess\Purchase.DataAccess.csproj" />
+    <ProjectReference Include="..\Purchase.Dto\Purchase.Dto.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+﻿.PurchaseCard_Table {
+    width: 95%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.PurchaseCard_Table td {
+    border: 1px solid gray;
+}

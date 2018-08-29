@@ -1,0 +1,3 @@
+C:\Source\BKD\_git\kraken_micro\Purchase\Purchase.WebApi\Purchase.Web\obj\Debug\netcoreapp2.1\Purchase.Web.csproj.CoreCompileInputs.cache
+C:\Source\BKD\_git\kraken_micro\Purchase\Purchase.WebApi\Purchase.Web\obj\Debug\netcoreapp2.1\Purchase.Web.AssemblyInfoInputs.cache
+C:\Source\BKD\_git\kraken_micro\Purchase\Purchase.WebApi\Purchase.Web\obj\Debug\netcoreapp2.1\Purchase.Web.AssemblyInfo.cs

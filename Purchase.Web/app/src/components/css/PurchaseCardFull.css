@@ -1,0 +1,75 @@
+﻿.PurchaseCardFull{
+    padding: 10px;
+}
+
+.cols_outerDiv
+{
+    display: flex;
+}
+
+.sumTotalDiv
+{
+    float: left;
+}
+
+.sumTotal {
+    font-weight: bold;
+}
+
+.PurchaseCardFull .Panel.card_pnl {
+    min-width: 49%;
+    display: inline-block;
+    margin: 5px;
+}
+
+.header_text
+{
+    padding: 10px;
+}
+
+.PurchaseCardFull .Panel, .header_text {
+    border-radius: 6px;
+    background-color: #dadada;
+    border: 2px solid #dadada;
+}
+
+.pnl_user {
+    display: inline-block;
+    height: 55px;
+    width: 160px !important;
+    border: 2px solid #a0afbb !important;
+}
+
+.PurchaseCardFull .card_pnl span {
+    margin: 5px;
+    width: 30%;
+    display: inline-block;
+    font-size: 14px;
+}
+
+input.ro {
+    border: none;
+    background: transparent;
+}
+
+.userLogo {
+    width: 48px;
+    height: 48px;
+    vertical-align: middle;
+    margin-top: 4px;
+}
+
+.PurchaseCardFull .card_pnl div {
+    display: inline-block;
+}
+
+.PurchaseCardFull .card_pnl input {
+    margin: 5px;
+    clear: both;
+    font-weight: bold;
+}
+
+.purchaseCard_Tabs
+{
+    width: 100%;
+}

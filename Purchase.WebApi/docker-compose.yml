@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  purchase.web:
+    image: ${DOCKER_REGISTRY}purchaseweb
+    build:
+      context: .\..\Purchase.Web
+      dockerfile: Dockerfile

@@ -1,0 +1,21 @@
+@value unit, font, font-size from "@jetbrains/ring-ui/components/global/global.css";
+
+html,
+.test1 {
+  height: 100%;
+}
+
+.test1 {
+  composes: font;
+
+  margin: 0;
+  padding: 0;
+
+  background: #f0f0f0;
+
+  font-size: font-size;
+}
+
+.content {
+  margin: calc(unit * 4);
+}
